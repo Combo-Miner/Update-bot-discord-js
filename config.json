@@ -1,0 +1,10 @@
+{
+    "token": "",
+    "prefix": "=",
+    "developer_name": "UPR",
+    "ownerID" : "", 
+    "owner" : [""],
+    "color": "#4800ff",
+    "mongooseConnectionString": ""
+}
+
